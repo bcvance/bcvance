@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">Backend Web Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about **Django, Database Design, Language Learning**
+- 💬 Ask me about: **Django, Database Design, Language Learning**
 
-- 📫 How to reach me **ben@vancenet.net**
+- 📫 Reach me at: **ben@vancenet.net**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VaMIbpfZmqExmXCskWNIZlWYkErlztdv/view?usp=sharing](https://drive.google.com/file/d/1VaMIbpfZmqExmXCskWNIZlWYkErlztdv/view?usp=sharing)
+- 📄 Resumé: [https://drive.google.com/file/d/1VaMIbpfZmqExmXCskWNIZlWYkErlztdv/view?usp=sharing](https://drive.google.com/file/d/1VaMIbpfZmqExmXCskWNIZlWYkErlztdv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
