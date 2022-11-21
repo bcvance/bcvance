@@ -5,7 +5,7 @@
 
 - 📫 Reach me at: **ben@vancenet.net**
 
-- 📄 Resumé: [https://drive.google.com/file/d/1VaMIbpfZmqExmXCskWNIZlWYkErlztdv/view?usp=sharing](https://drive.google.com/file/d/1VaMIbpfZmqExmXCskWNIZlWYkErlztdv/view?usp=sharing)
+- 📄 Resumé: [https://docs.google.com/document/d/192WhjiZ86p6-iq4LaLwPe1yZcWHWanqhVPEXrj6v4yM/edit?usp=sharing](https://docs.google.com/document/d/192WhjiZ86p6-iq4LaLwPe1yZcWHWanqhVPEXrj6v4yM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
