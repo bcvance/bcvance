@@ -1,9 +1,7 @@
 <h1 align="center">Ben Vance</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning: **React**
-
-- 💬 Ask me about: **Django, Database Design, Language Learning**
+Django, React, API Design, Efficient Full Stack Development
 
 - 📫 Reach me at: **ben@vancenet.net**
 
