@@ -1,7 +1,7 @@
 <h1 align="center">Ben Vance</h1>
 <h3 align="center">Web Developer</h3>
 
-Django, React, API Design, Efficient Full Stack Development
+<p align="center">Django, React, API Design, Efficient Full Stack Development</p>
 
 - 📫 Reach me at: **ben@vancenet.net**
 
